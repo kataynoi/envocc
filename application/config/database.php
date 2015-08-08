@@ -63,9 +63,9 @@ $db['hdc']['hostname'] = '192.168.10.18';
 */
 
 
-$db['default']['hostname'] = '203.157.185.18';
-$db['default']['username'] = 'thait-rex';
-$db['default']['password'] = '123456';
+$db['default']['hostname'] = 'x';
+$db['default']['username'] = 'x';
+$db['default']['password'] = 'x';
 $db['default']['database'] = 'dc_dpc';
 $db['default']['port'] = 3306;
 $db['default']['dbdriver'] = 'mysql';
